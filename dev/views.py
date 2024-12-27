@@ -1,5 +1,6 @@
 from django.views import generic
 
+
 # Create your views here.
 from .models import Product, Question
 from .forms import ProductForm, QuestionForm
